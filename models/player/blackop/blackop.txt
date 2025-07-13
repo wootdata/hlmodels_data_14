@@ -1,0 +1,5 @@
+BlackOp ver0.0 4/3/99 Ben Ashcroft
+
+This skin was created by ~BIO~Psychohead
+using the grunt model, THIS MODEL HAS NO CHANGEBLE COLOURS.
+Create a BlackOp folder in your models directry

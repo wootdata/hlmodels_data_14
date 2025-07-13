@@ -1,0 +1,7 @@
+skin name	Devil (1/2 2000)
+author		fraggy (frAg dAddy)
+base		Nympho.mdl by Kris Hauser
+installation	just extract the files inte your a folder called "Devil" in your 				half-life/valve/models/player directory.
+description	A devil-hunter from somewere in Asia, has l33t skillz0rs (=D) in kung-fu.
+
+I tried to make a kinda shiny look to the suit, but it looked so bad, that I gave up. The upper arms, upper parts of the legs and parts of the breasts are from the Nympho skin (I was to lazy to make new). I must thank Kris Hauser for making a great model (and skin =D). 

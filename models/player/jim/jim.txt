@@ -1,0 +1,21 @@
+CRAZY JIM V0.5 Deathmatch Model
+3D artist: GATH
+Description: JIM CARREY IN FUNNY T-SHIRT & JEANS
+
+Make an JIM folder in the
+
+\sierra\half-life\valve\models\player\jim folder.
+
+The .mdl file is the model you will see during play.  The .bmp file is
+necessary for the model to be selectable via the launcher interface.  For
+a player model to be visible to all clients playing, it must be installed
+on
+the server for it to propogate to all playing clients.
+
+When a model is downloaded from the game server, it does not download the
+.bmp file necessary for selecting the model in the interface: models must
+be
+deliberately installed by the player.
+
+I'm working on new skins all the time.  If you have any suggestions let me
+know by e-mail at my friend's address: JAKEL@HOTMAIL.COM
