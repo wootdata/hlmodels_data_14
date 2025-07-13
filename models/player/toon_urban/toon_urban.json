@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -75,6 +76,7 @@
 			"type": 32
 		}
 	],
+	"date": 1625598014,
 	"events": [
 		{
 			"event": 2001,
@@ -184,7 +186,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ce209cb9d6c0bf68e8f74b47c9e7f7e3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "toon_urban.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

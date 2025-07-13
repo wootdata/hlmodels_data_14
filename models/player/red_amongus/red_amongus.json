@@ -32,7 +32,9 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
+	"date": 1602942434,
 	"events": [
 		{
 			"event": 2001,
@@ -142,7 +144,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c05f6b49edf357e0df36c239c2daa1b4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "E:\\Mod\\GOLDSRC\\Players proyects\\AmongUsPM\\among\\gordon.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
