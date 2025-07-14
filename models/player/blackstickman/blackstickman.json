@@ -14,20 +14,20 @@
 			"bone": 21,
 			"name": "",
 			"type": 0
+		}, 
+		{
+			"bone": 17,
+			"name": "",
+			"type": 0
 		}
 	],
 	"bodies": [
 		{
 			"models": [
 				{
-					"name": "../dmatch/lowcount/zomdm/ZOM_Template_Biped1",
-					"polys": 468,
-					"verts": 232
-				}, 
-				{
-					"name": "../dmatch/lowcount/zomdm/ZOM_Template_Biped1",
-					"polys": 468,
-					"verts": 232
+					"name": "2123",
+					"polys": 1498,
+					"verts": 831
 				}
 			],
 			"name": "body"
@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1104192140,
+	"date": 1619024756,
 	"events": [
 		{
 			"event": 2001,
@@ -177,10 +177,10 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "97ff80f32347f4d31a8e226f08595e91",
+	"md5": "689badcae26956108e9c9bbcc11baf72",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "player/Zombie/zombie.mdl",
+	"name": "blackstickman.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -192,7 +192,7 @@
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 41,
+			"frames": 31,
 			"name": "idle"
 		}, 
 		{
@@ -202,12 +202,12 @@
 		}, 
 		{
 			"fps": 40.000000,
-			"frames": 23,
+			"frames": 25,
 			"name": "run2"
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 24,
+			"frames": 17,
 			"name": "walk2handed"
 		}, 
 		{
@@ -227,7 +227,7 @@
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 34,
+			"frames": 128,
 			"name": "jump"
 		}, 
 		{
@@ -312,7 +312,7 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_crowbar"
 		}, 
 		{
@@ -322,12 +322,12 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_crowbar"
 		}, 
 		{
 			"fps": 24.000000,
-			"frames": 11,
+			"frames": 13,
 			"name": "crouch_shoot_crowbar"
 		}, 
 		{
@@ -452,62 +452,62 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_rpg"
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 16,
+			"frames": 11,
 			"name": "ref_shoot_rpg"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_rpg"
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 16,
+			"frames": 11,
 			"name": "crouch_shoot_rpg"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_egon"
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_shoot_egon"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_egon"
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_shoot_egon"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_squeak"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 13,
+			"frames": 11,
 			"name": "ref_shoot_squeak"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 30,
+			"frames": 21,
 			"name": "crouch_aim_squeak"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 13,
+			"frames": 11,
 			"name": "crouch_shoot_squeak"
 		}, 
 		{
@@ -532,22 +532,22 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "ref_aim_bow"
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 31,
+			"frames": 7,
 			"name": "ref_shoot_bow"
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 31,
+			"frames": 21,
 			"name": "crouch_aim_bow"
 		}, 
 		{
 			"fps": 16.000000,
-			"frames": 31,
+			"frames": 7,
 			"name": "crouch_shoot_bow"
 		}, 
 		{
@@ -571,7 +571,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 292748,
+	"size": 254728,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -660,6 +660,14 @@
 		{
 			"name": "Bip01 R Hand",
 			"parent": 20
+		}, 
+		{
+			"name": "joint23",
+			"parent": -1
+		}, 
+		{
+			"name": "joint24",
+			"parent": -1
 		}
 	],
 	"skins": 1,
@@ -667,9 +675,33 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "DM_Base.bmp",
-			"width": 256
+			"height": 4,
+			"name": "bbb.bmp",
+			"width": 4
+		}, 
+		{
+			"flags": 0,
+			"height": 8,
+			"name": "black.bmp",
+			"width": 8
+		}, 
+		{
+			"flags": 32,
+			"height": 64,
+			"name": "aevents.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 34,
+			"height": 32,
+			"name": "DM_baseadd.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 2,
+			"height": 32,
+			"name": "DM_base.bmp",
+			"width": 32
 		}
 	],
 	"version": 10

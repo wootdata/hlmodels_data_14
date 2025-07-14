@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 21,
+			"bone": 26,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 26,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 26,
 			"name": "",
 			"type": 0
 		}
@@ -20,20 +20,35 @@
 		{
 			"models": [
 				{
-					"name": "../dmatch/lowcount/zomdm/ZOM_Template_Biped1",
-					"polys": 468,
-					"verts": 232
-				}, 
+					"name": "Amorosa 1",
+					"polys": 7352,
+					"verts": 1847
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
 				{
-					"name": "../dmatch/lowcount/zomdm/ZOM_Template_Biped1",
-					"polys": 468,
-					"verts": 232
+					"name": "Amorosa 2.2",
+					"polys": 3201,
+					"verts": 1752
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Amorosa 3.2",
+					"polys": 2491,
+					"verts": 1264
 				}
 			],
 			"name": "body"
 		}
 	],
-	"colorable": true,
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -68,7 +83,7 @@
 			"type": 8
 		}
 	],
-	"date": 1104192140,
+	"date": 1694800360,
 	"events": [
 		{
 			"event": 2001,
@@ -177,10 +192,10 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "97ff80f32347f4d31a8e226f08595e91",
+	"md5": "3641b5e1edae4d82a6cb9072e858f162",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "player/Zombie/zombie.mdl",
+	"name": "C:\\Users\\DIAZ\\Desktop\\ChicaGuapa\\CampeonaVediBlanca.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -571,7 +586,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 292748,
+	"size": 1143380,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -646,20 +661,60 @@
 			"parent": 16
 		}, 
 		{
+			"name": "Bip01 L Finger0",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 21
+		}, 
+		{
 			"name": "Bip01 R Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 18
+			"parent": 23
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 19
+			"parent": 24
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 20
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 30
 		}
 	],
 	"skins": 1,
@@ -667,9 +722,21 @@
 	"textures": [
 		{
 			"flags": 0,
+			"height": 512,
+			"name": "Amorosa_Body_diffuse.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
 			"height": 256,
-			"name": "DM_Base.bmp",
-			"width": 256
+			"name": "T_F_MED_Crush_Head_B.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "T_F_MED_Crush_ACC_B.bmp",
+			"width": 512
 		}
 	],
 	"version": 10

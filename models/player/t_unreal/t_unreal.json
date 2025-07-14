@@ -20,20 +20,15 @@
 		{
 			"models": [
 				{
-					"name": "../dmatch/lowcount/zomdm/ZOM_Template_Biped1",
-					"polys": 468,
-					"verts": 232
-				}, 
-				{
-					"name": "../dmatch/lowcount/zomdm/ZOM_Template_Biped1",
-					"polys": 468,
-					"verts": 232
+					"name": "ETacSMD",
+					"polys": 1760,
+					"verts": 985
 				}
 			],
 			"name": "body"
 		}
 	],
-	"colorable": true,
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -68,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1104192140,
+	"date": 986182880,
 	"events": [
 		{
 			"event": 2001,
@@ -177,10 +172,10 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "97ff80f32347f4d31a8e226f08595e91",
+	"md5": "4c2999e497c61c02b47bacbaa07be097",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "player/Zombie/zombie.mdl",
+	"name": "C:\\WINDOWS\\Desktop\\Skeleton\\Skeleton.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -571,7 +566,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 292748,
+	"size": 397336,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -667,8 +662,20 @@
 	"textures": [
 		{
 			"flags": 0,
+			"height": 128,
+			"name": "morda.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
 			"height": 256,
-			"name": "DM_Base.bmp",
+			"name": "nogi.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "telo.bmp",
 			"width": 256
 		}
 	],
