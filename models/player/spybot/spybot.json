@@ -175,6 +175,7 @@
 	"md5": "31ee7b15c81114914317fa50818fde01",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/spybot/spybot.mdl",
 	"preview": true,
 	"readme": false,

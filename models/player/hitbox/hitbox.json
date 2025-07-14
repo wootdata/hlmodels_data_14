@@ -185,6 +185,7 @@
 	"md5": "7157e03ba12ad520d284d1df70d4fc88",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "HitBox.mdl",
 	"preview": true,
 	"readme": false,

@@ -175,6 +175,7 @@
 	"md5": "895e7d0345760ba5d445841ca8bcb33c",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/Razer/Razer.mdl",
 	"preview": false,
 	"readme": false,

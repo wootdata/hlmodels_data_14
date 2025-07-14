@@ -201,6 +201,7 @@
 	"md5": "030109ad75ba34c68e0ffbb5e7b9b2e8",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/pepsiman/pepsiman.mdl",
 	"preview": true,
 	"readme": false,

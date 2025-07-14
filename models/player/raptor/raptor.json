@@ -175,6 +175,7 @@
 	"md5": "37c185360287d16da4eb2e087ec7ecb5",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/raptor/raptor.mdl",
 	"preview": true,
 	"readme": false,
