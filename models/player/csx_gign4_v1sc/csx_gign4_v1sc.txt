@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : csx_gign4
+Source Model Hash : 6416f641aeda3109f37ec3c3c71ea5d3
+Source Model Date : 1623053630 (2021/06/07)
+
+Ported Model Name : csx_gign4_v1sc
+Ported Model Hash : d51e1cfa44a4c2e56edd66ffea3d0cc0
+Ported Model Date : 1752491562 (2025/07/14)

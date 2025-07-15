@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : slayer
+Source Model Hash : 21fc9a39914fefa7c68fc2b767d39117
+Source Model Date : 1314624446 (2011/08/29)
+
+Ported Model Name : slayer_v1sc
+Ported Model Hash : f34688943795b36c8b96ef2f8e2adf96
+Ported Model Date : 1752492280 (2025/07/14)

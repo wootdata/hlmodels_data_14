@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : shaggy
+Source Model Hash : 466afc7c4eb61a822e2982cfcb8feeb5
+Source Model Date : 1629643215 (2021/08/22)
+
+Ported Model Name : shaggy_v1sc
+Ported Model Hash : f95d13a93790d0c77c82dfafc688f410
+Ported Model Date : 1752492265 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : surpstalker2
+Source Model Hash : 4c5abe9a87ec4fe409f70a100ed72ec0
+Source Model Date : 1457122103 (2016/03/04)
+
+Ported Model Name : surpstalker2_v1sc
+Ported Model Hash : e5c6a99fe0015ab44ce37a1653fa7634
+Ported Model Date : 1752492352 (2025/07/14)

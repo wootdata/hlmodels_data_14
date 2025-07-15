@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : foxmulder_v1
+Source Model Hash : acc8e08b999176dab686362b6d5b90c9
+Source Model Date : 1482988504 (2016/12/28)
+
+Ported Model Name : foxmulder_v1sc
+Ported Model Hash : ed5eb747d25e2b63f05ddaa87a72a3fd
+Ported Model Date : 1752491655 (2025/07/14)

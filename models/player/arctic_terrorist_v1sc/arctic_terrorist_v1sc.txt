@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : arctic_terrorist
+Source Model Hash : c22fc208d8d246d8f67540ed4c46da7b
+Source Model Date : 1262617242 (2010/01/04)
+
+Ported Model Name : arctic_terrorist_v1sc
+Ported Model Hash : cd3949268f1c31e446774931d7ce0a38
+Ported Model Date : 1752491366 (2025/07/14)

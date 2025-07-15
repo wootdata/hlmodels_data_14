@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spet7
+Source Model Hash : 446d8ae69dcc14adc7da879c8a9a23af
+Source Model Date : 1500481394 (2017/07/19)
+
+Ported Model Name : spet7_v1sc
+Ported Model Hash : 44ac2a7379cc0c8c0c82af2f517e0cc1
+Ported Model Date : 1752492308 (2025/07/14)

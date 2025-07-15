@@ -1,0 +1,31 @@
+Ghost Skin
+
+This is a comic Book Character. 
+
+This is one of my first skins for Half Life,
+Based on skin called " Dawn " 
+
+Other skins  Released by Me:
+Duke Nukem
+Grim Reaper
+
+
+Feel free to contact me at Whiplash@netzero.net or ICQ 9925070.
+and please distribute this file
+
+Edward E. White   AKA  PC Punisher
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ghost_v2
+Source Model Hash : d138ad612d41b48ca8783464bc8929f6
+Source Model Date : 1583879526 (2020/03/10)
+
+Ported Model Name : ghost_v2sc
+Ported Model Hash : e2de26ce55178b639078e139db079565
+Ported Model Date : 1752491698 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hololive_gura-c1_red
+Source Model Hash : 02b352328443311431a67af42c90c2c8
+Source Model Date : 1661479198 (2022/08/25)
+
+Ported Model Name : holo_gura-c1_red_v1sc
+Ported Model Hash : 5ff3197307d904afb36e1c60163f092b
+Ported Model Date : 1752491818 (2025/07/14)

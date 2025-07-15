@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : thewastes_kali
+Source Model Hash : 388b506d594fb204dcfb934c4ac647a3
+Source Model Date : 1267462875 (2010/03/01)
+
+Ported Model Name : thewastes_kali_v1sc
+Ported Model Hash : 1025479d3619020890f459583693e5b6
+Ported Model Date : 1752492411 (2025/07/14)

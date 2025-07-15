@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tinpoppo_huge
+Source Model Hash : a7a59308412ad123c4587bd8b6b1d9de
+Source Model Date : 1375637124 (2013/08/04)
+
+Ported Model Name : tinpoppo_huge_v1sc
+Ported Model Hash : b9bde193c961c39da0a147095cbe8595
+Ported Model Date : 1752492423 (2025/07/14)

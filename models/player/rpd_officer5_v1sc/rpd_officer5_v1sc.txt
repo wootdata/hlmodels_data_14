@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rpd_officer5
+Source Model Hash : 29516e603c0848f01d79a6c33c9456e2
+Source Model Date : 1236290232 (2009/03/05)
+
+Ported Model Name : rpd_officer5_v1sc
+Ported Model Hash : f95eb8f4bf1264a38b5fc6fa90456123
+Ported Model Date : 1752492223 (2025/07/14)

@@ -1,0 +1,20 @@
+Textures: Gearbox
+Animations: Vavle/Sven coop team
+Model: Sylvine
+
+I'm not responsible if you're stupid. It's your mother fault.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wtf_gman
+Source Model Hash : a4fa7366226630ced2d673701f158b11
+Source Model Date : 1263412288 (2010/01/13)
+
+Ported Model Name : wtf_gman_v1sc
+Ported Model Hash : c68ee2edc1f13ba5853e08d9cb0ea680
+Ported Model Date : 1752492513 (2025/07/14)

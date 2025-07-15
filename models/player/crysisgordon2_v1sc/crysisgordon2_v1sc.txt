@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : crysisgordon2
+Source Model Hash : 4b7a873786b4b892e91513512f455aaf
+Source Model Date : 1295897784 (2011/01/24)
+
+Ported Model Name : crysisgordon2_v1sc
+Ported Model Hash : 6481d72d07c8d562718c410aa170af76
+Ported Model Date : 1752491540 (2025/07/14)

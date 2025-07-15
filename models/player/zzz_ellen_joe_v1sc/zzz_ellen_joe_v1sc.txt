@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zzz_ellen_joe
+Source Model Hash : 5d94d3352e7f57d4e49610f82eab25bd
+Source Model Date : 1722102455 (2024/07/27)
+
+Ported Model Name : zzz_ellen_joe_v1sc
+Ported Model Hash : 6eb554fc8b24094d092c2cb2085c448d
+Ported Model Date : 1752492535 (2025/07/14)

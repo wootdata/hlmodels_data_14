@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : general_raam
+Source Model Hash : 95a632e2977fe02a18d22c4bb3616a02
+Source Model Date : 1594232811 (2020/07/08)
+
+Ported Model Name : general_raam_v1sc
+Ported Model Hash : 104a11657985a35f506e383175ddc270
+Ported Model Date : 1752491674 (2025/07/14)

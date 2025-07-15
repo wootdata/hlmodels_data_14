@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nam_shadow
+Source Model Hash : d519de0bdf61c5d5983751591c06dfc7
+Source Model Date : 1265557583 (2010/02/07)
+
+Ported Model Name : nam_shadow_v1sc
+Ported Model Hash : 121d1c4b1866a3d1bf9449b91b6a3e01
+Ported Model Date : 1752492067 (2025/07/14)

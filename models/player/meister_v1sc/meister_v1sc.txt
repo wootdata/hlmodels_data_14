@@ -1,0 +1,17 @@
+Duke Nukem
+On vacation?
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : meister
+Source Model Hash : 9ea2cfa2beaac04f59b6a07dfb40f2ab
+Source Model Date : 1256556620 (2009/10/26)
+
+Ported Model Name : meister_v1sc
+Ported Model Hash : 0a36945f18567d6f5858b10145a74000
+Ported Model Date : 1752492000 (2025/07/14)

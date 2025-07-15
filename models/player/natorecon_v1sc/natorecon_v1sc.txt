@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : natorecon
+Source Model Hash : 2d1b37ad5f7cf7fab278d833a61e486f
+Source Model Date : 1265566376 (2010/02/07)
+
+Ported Model Name : natorecon_v1sc
+Ported Model Hash : a743387b42c2ca199ec16e099f34a76b
+Ported Model Date : 1752492075 (2025/07/14)

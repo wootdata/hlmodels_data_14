@@ -1,0 +1,17 @@
+made_by_winkler
+The Specialists mod
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sf_slippy
+Source Model Hash : 496475818bab5832ec21537ab9e952cd
+Source Model Date : 1466424463 (2016/06/20)
+
+Ported Model Name : sf_slippy_v1sc
+Ported Model Hash : dbf7ab59727c68f9953d9586bd095b6d
+Ported Model Date : 1752492260 (2025/07/14)

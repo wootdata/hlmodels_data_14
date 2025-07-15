@@ -1,0 +1,17 @@
+Credit:
+http://davidsaiyan.blogspot.jp/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : withered_golden
+Source Model Hash : 472e2f6ac59cfdacf5d995a6886cd5cf
+Source Model Date : 1442318514 (2015/09/15)
+
+Ported Model Name : withered_golden_v1sc
+Ported Model Hash : f00d7b81b49e96373baefc779de3ab00
+Ported Model Date : 1752492510 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : da_bonnie_fnaf
+Source Model Hash : 012c421bbb245c8a19c248d43daf5ca0
+Source Model Date : 1462603552 (2016/05/06)
+
+Ported Model Name : da_bonnie_fnaf_v1sc
+Ported Model Hash : 7001f3531556c9139d88a7458e392bba
+Ported Model Date : 1752491584 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : revenant
+Source Model Hash : 47c536ea5c9445649f7ddd6166c4f1dc
+Source Model Date : 1375376712 (2013/08/01)
+
+Ported Model Name : revenant_v1sc
+Ported Model Hash : c4ccaf4615bd1a64b8d30ed42b365ab3
+Ported Model Date : 1752492202 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : monchi
+Source Model Hash : bf1a410acddd594433c84341dec6754e
+Source Model Date : 1674784079 (2023/01/26)
+
+Ported Model Name : monchi_v1sc
+Ported Model Hash : 811f7ed39e8db52d9a4adc1d8c829abf
+Ported Model Date : 1752492040 (2025/07/14)

@@ -1,0 +1,17 @@
+Ported by snekky
+have fun <3
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : karenkujo
+Source Model Hash : 3d36a01437e0579e1c91f46828295c42
+Source Model Date : 1571147202 (2019/10/15)
+
+Ported Model Name : karenkujo_v1sc
+Ported Model Hash : b6c81c6fadf579a8811883730f507ef3
+Ported Model Date : 1752491872 (2025/07/14)

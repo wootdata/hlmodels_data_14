@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spliterl4d
+Source Model Hash : 61c1f9182255903d89ee3ceb0b0a1210
+Source Model Date : 1445974474 (2015/10/27)
+
+Ported Model Name : spliterl4d_v1sc
+Ported Model Hash : c638aacf7b07085bdc06eeef553f3217
+Ported Model Date : 1752492310 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : inmate
+Source Model Hash : abfee386e5992a01913a0ad24f0d9373
+Source Model Date : 1264538644 (2010/01/26)
+
+Ported Model Name : inmate_v1sc
+Ported Model Hash : 79bc362a08167f4771e60c69a7d9fdc7
+Ported Model Date : 1752491845 (2025/07/14)

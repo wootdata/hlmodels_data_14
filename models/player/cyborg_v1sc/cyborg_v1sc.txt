@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cyborg
+Source Model Hash : f482aafaeb6ac5cd8e0accb7cd397007
+Source Model Date : 1268464502 (2010/03/12)
+
+Ported Model Name : cyborg_v1sc
+Ported Model Hash : 4d84aeeeba0496077e3435df3895b6a4
+Ported Model Date : 1752491573 (2025/07/14)

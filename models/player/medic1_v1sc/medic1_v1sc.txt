@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : medic1
+Source Model Hash : 791fc380095c8655f6a756106c8530f4
+Source Model Date : 1237218020 (2009/03/16)
+
+Ported Model Name : medic1_v1sc
+Ported Model Hash : 83e688a5b2ebdfad7a00c576c4272180
+Ported Model Date : 1752491998 (2025/07/14)

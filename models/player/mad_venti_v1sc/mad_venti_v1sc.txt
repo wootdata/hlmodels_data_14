@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mad_venti
+Source Model Hash : a91696596dc5c7798637772ec6bb89af
+Source Model Date : 1682254644 (2023/04/23)
+
+Ported Model Name : mad_venti_v1sc
+Ported Model Hash : eae4fa7ef0c6b8730c6de20dd9f5a97d
+Ported Model Date : 1752491981 (2025/07/14)

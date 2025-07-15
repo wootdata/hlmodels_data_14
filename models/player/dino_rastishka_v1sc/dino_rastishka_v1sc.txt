@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dino_rastishka
+Source Model Hash : fc659392d86346ede77aa2d4e866753e
+Source Model Date : 1466337174 (2016/06/19)
+
+Ported Model Name : dino_rastishka_v1sc
+Ported Model Hash : ca0c44846479aee2fef1baeb45ac9616
+Ported Model Date : 1752491598 (2025/07/14)

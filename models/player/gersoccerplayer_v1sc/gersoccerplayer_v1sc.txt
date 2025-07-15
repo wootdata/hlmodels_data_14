@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : germansoccerplayer
+Source Model Hash : 972e3033f309ce97fab20fcc91c5a8de
+Source Model Date : 1265123133 (2010/02/02)
+
+Ported Model Name : gersoccerplayer_v1sc
+Ported Model Hash : bad73688996c91192808462097050ee2
+Ported Model Date : 1752491675 (2025/07/14)

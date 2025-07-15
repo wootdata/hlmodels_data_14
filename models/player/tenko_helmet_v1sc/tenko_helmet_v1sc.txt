@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tenko_helmet
+Source Model Hash : 57199ce90fad828c834fcb580f9e8cf5
+Source Model Date : 1632353593 (2021/09/22)
+
+Ported Model Name : tenko_helmet_v1sc
+Ported Model Hash : 9732d60d83afe75b32e210c974afe56d
+Ported Model Date : 1752492399 (2025/07/14)

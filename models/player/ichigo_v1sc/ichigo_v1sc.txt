@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ichigo
+Source Model Hash : bbf5b97f5240e4dd8e604822be13b806
+Source Model Date : 1264538117 (2010/01/26)
+
+Ported Model Name : ichigo_v1sc
+Ported Model Hash : 9d331919d273902104b08128447122c3
+Ported Model Date : 1752491842 (2025/07/14)

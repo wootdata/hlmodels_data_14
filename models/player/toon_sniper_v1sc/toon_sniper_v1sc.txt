@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : toon_sniper
+Source Model Hash : 7b41aa5ffaca6728a6affb7f0e5b0f4c
+Source Model Date : 1240097136 (2009/04/18)
+
+Ported Model Name : toon_sniper_v1sc
+Ported Model Hash : f3074b374f56863810567c842c6be44f
+Ported Model Date : 1752492431 (2025/07/14)

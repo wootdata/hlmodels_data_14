@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zombiescie2
+Source Model Hash : 7da86f01249ff97d17e5a3aa2c9bcacc
+Source Model Date : 1612317524 (2021/02/02)
+
+Ported Model Name : zombiescie2_v1sc
+Ported Model Hash : 69b1b678f4ee863b204879c970d5eaa6
+Ported Model Date : 1752492532 (2025/07/14)

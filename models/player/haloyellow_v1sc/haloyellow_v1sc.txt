@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : haloyellow
+Source Model Hash : 099bb6e60da06d2e577c8d3426178b04
+Source Model Date : 1236707030 (2009/03/10)
+
+Ported Model Name : haloyellow_v1sc
+Ported Model Hash : c520491a016cb32ef503b6137eaa6d9f
+Ported Model Date : 1752491764 (2025/07/14)

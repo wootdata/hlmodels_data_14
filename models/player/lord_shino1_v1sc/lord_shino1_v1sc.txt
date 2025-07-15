@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lord_shino1
+Source Model Hash : 30de32e0dff0010ef4271548d9b0d301
+Source Model Date : 1264155977 (2010/01/22)
+
+Ported Model Name : lord_shino1_v1sc
+Ported Model Hash : 06b8f241734b5fd5f47566877c8d491f
+Ported Model Date : 1752491962 (2025/07/14)

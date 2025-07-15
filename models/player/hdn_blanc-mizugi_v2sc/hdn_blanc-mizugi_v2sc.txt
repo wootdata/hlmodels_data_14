@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hdn_blanc-mizugi_v2
+Source Model Hash : 630a0803a54c10784e7588aa6aae77c3
+Source Model Date : 1630424133 (2021/08/31)
+
+Ported Model Name : hdn_blanc-mizugi_v2sc
+Ported Model Hash : 0d65c6db6b316b44cd356ae1ba65e5a6
+Ported Model Date : 1752491774 (2025/07/14)

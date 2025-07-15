@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pw_npc37m
+Source Model Hash : 8381cc10a3a1f367eb4685c512329fc0
+Source Model Date : 1472477792 (2016/08/29)
+
+Ported Model Name : pw_npc37m_v1sc
+Ported Model Hash : b040e2682f1b7b59a15803b7b45c3a61
+Ported Model Date : 1752492174 (2025/07/14)

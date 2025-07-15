@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_meiling2
+Source Model Hash : 999173613a67c3a9aa2b520a84632e8d
+Source Model Date : 1526655684 (2018/05/18)
+
+Ported Model Name : touhou_meiling2_v1sc
+Ported Model Hash : f85cc5924c53dbd4aa656921b6e34956
+Ported Model Date : 1752492441 (2025/07/14)

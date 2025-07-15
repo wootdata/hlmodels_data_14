@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kancolle_harbour
+Source Model Hash : eee2a7e1b9f1118aebf91c126e0f18e8
+Source Model Date : 1469448527 (2016/07/25)
+
+Ported Model Name : kancolle_harbour_v1sc
+Ported Model Hash : b7620c878e7c46bea07f0f7cb3d59f6d
+Ported Model Date : 1752491870 (2025/07/14)

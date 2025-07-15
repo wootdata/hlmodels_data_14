@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mw2_roach
+Source Model Hash : 84074f583bc7c34926fc712b5a145d2a
+Source Model Date : 1411877130 (2014/09/27)
+
+Ported Model Name : mw2_roach_v1sc
+Ported Model Hash : b2c21c4ba4017628567ceb5c916b8a0b
+Ported Model Date : 1752492054 (2025/07/14)

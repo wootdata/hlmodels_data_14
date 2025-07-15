@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sc_argentina_v2
+Source Model Hash : bf314a8c838530f625def61206098a63
+Source Model Date : 1583370301 (2020/03/04)
+
+Ported Model Name : sc_argentina_v2sc
+Ported Model Hash : 47db7789da43fed7d8f93789a5d15631
+Ported Model Date : 1752492250 (2025/07/14)

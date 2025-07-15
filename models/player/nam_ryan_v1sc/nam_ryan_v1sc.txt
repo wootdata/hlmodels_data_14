@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nam_ryan
+Source Model Hash : 89aa32d7306aaa8ae143de530d99b899
+Source Model Date : 1265557365 (2010/02/07)
+
+Ported Model Name : nam_ryan_v1sc
+Ported Model Hash : dd0906d8af49b9faa4c24f7228e6bd35
+Ported Model Date : 1752492066 (2025/07/14)

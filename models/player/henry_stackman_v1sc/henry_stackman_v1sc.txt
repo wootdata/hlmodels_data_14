@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : henry_stackman
+Source Model Hash : cfc08a608853d613bf75ab5ef0b3fe19
+Source Model Date : 1643736360 (2022/02/01)
+
+Ported Model Name : henry_stackman_v1sc
+Ported Model Hash : cd4917331f45bfe5d234a5e1ca686333
+Ported Model Date : 1752491784 (2025/07/14)

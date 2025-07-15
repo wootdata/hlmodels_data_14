@@ -1,0 +1,45 @@
+Thank you for downloading this skin for Sven Co-op
+
+Remember that Nicholai Paradox made this model possible, give me credits if you want to share it
+
+Instructions
+Copy and paste the player folder to the root folder of your sven co-op. If it tells you to replace, accept and go
+
+this is the address of the root folder of the game:
+C:\Program Files\Steam\steamapps\common\Sven Co-op\svencoop
+
+I only hope that you enjoy it
+
+paradoxmodding.blogspot.com
+
+
+--------------
+readme esp.txt
+--------------
+Gracias por descargar este skin para Grand Sven Co-op
+
+Recuerda que Nicholai Paradox hizo posible este modelo dame créditos a mi si quieres compartirlo
+
+Copia y pega la carpeta player a la carpeta raiz de su sven co-op. Si te dice que reemplazes acepta y listo
+
+esta es la dirección de la carpeta raiz del juego:
+C:\Program Files\Steam\steamapps\common\Sven Co-op\svencoop
+
+solo eso espero que lo disfrutes
+
+paradoxmodding.blogspot.com
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lolakali
+Source Model Hash : d49c4988fc5e8a3f05f4b2a65bce9f6c
+Source Model Date : 1621560224 (2021/05/20)
+
+Ported Model Name : lolakali_v1sc
+Ported Model Hash : 427e7b11bac74be4c6bca09795f85d07
+Ported Model Date : 1752491956 (2025/07/14)

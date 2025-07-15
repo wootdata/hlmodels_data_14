@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : simon_twitcher
+Source Model Hash : fe7e2aadde1f0f53d2e433ec5642714f
+Source Model Date : 1455995480 (2016/02/20)
+
+Ported Model Name : simon_twitcher_v1sc
+Ported Model Hash : 6454908d479ae5a943250dbe693ba906
+Ported Model Date : 1752492278 (2025/07/14)

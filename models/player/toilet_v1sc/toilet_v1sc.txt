@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : toilet
+Source Model Hash : 32bd8c8ffaec5d795b63b118c563dd56
+Source Model Date : 1472477792 (2016/08/29)
+
+Ported Model Name : toilet_v1sc
+Ported Model Hash : f119a485568cfdd5e997edb597e39f28
+Ported Model Date : 1752492427 (2025/07/14)

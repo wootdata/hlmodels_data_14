@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wanted_nagatow_v2
+Source Model Hash : 6a430dd3dbb2e444060bbc9efd2e2d65
+Source Model Date : 1528090954 (2018/06/03)
+
+Ported Model Name : wanted_nagatow_v2sc
+Ported Model Hash : 038bd005db98e78ade02f15a74a68313
+Ported Model Date : 1752492503 (2025/07/14)

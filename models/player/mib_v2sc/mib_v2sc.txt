@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mib_v2
+Source Model Hash : 605f3960a8f42b2f98836d000ff47d5d
+Source Model Date : 1583294961 (2020/03/03)
+
+Ported Model Name : mib_v2sc
+Ported Model Hash : dbdd66ba71cee1133eab0820d0c092b5
+Ported Model Date : 1752492014 (2025/07/14)

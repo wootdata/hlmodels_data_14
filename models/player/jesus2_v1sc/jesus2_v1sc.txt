@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jesus2
+Source Model Hash : ee7cc0ab4eea3131eb81afd8320e0c56
+Source Model Date : 1263925599 (2010/01/19)
+
+Ported Model Name : jesus2_v1sc
+Ported Model Hash : 16b7dcd0c6de35a34549d2cb631876e7
+Ported Model Date : 1752491861 (2025/07/14)

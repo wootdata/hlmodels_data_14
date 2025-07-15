@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dipsy
+Source Model Hash : 029f90d032fa86283cd23fb80cbda487
+Source Model Date : 1497706800 (2017/06/17)
+
+Ported Model Name : dipsy_v1sc
+Ported Model Hash : fe11fddec27887d684813318e078af1f
+Ported Model Date : 1752491599 (2025/07/14)

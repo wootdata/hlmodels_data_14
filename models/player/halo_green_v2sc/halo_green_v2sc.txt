@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : halo_green_v2
+Source Model Hash : 11dd8faa2213b12572e12e0ab8ba95bd
+Source Model Date : 1583888840 (2020/03/10)
+
+Ported Model Name : halo_green_v2sc
+Ported Model Hash : b51a4f053f9a0c7bb778ba4531a9f1a0
+Ported Model Date : 1752491765 (2025/07/14)

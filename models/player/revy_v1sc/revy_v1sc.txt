@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : revy
+Source Model Hash : 8cd7aade76b6a391344cfc82846e74b6
+Source Model Date : 1237218048 (2009/03/16)
+
+Ported Model Name : revy_v1sc
+Ported Model Hash : a1443385292565728f01037221a78aa8
+Ported Model Date : 1752492202 (2025/07/14)

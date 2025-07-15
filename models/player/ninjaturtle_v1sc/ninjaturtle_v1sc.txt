@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ninjaturtle
+Source Model Hash : 00f8ab9e6c45bcd3a99b057f8f84ae00
+Source Model Date : 1265637865 (2010/02/08)
+
+Ported Model Name : ninjaturtle_v1sc
+Ported Model Hash : 7d4687dbe11e61cba386293decc55979
+Ported Model Date : 1752492096 (2025/07/14)

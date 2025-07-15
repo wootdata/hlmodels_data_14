@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : x22miku
+Source Model Hash : 08b928617c80d843f6c1b734b8fe1f37
+Source Model Date : 1742235936 (2025/03/17)
+
+Ported Model Name : x22miku_v1sc
+Ported Model Hash : 0250695e57333c58d2bea90f84551239
+Ported Model Date : 1752492514 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pwnbot
+Source Model Hash : d32d42ca9cdbf2dea7e2e55a24641c2e
+Source Model Date : 1232293020 (2009/01/18)
+
+Ported Model Name : pwnbot_v1sc
+Ported Model Hash : f3d9c08cb9d28fa9460ba0a03e1216a4
+Ported Model Date : 1752492174 (2025/07/14)

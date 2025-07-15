@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dorothy
+Source Model Hash : 9652581b9d62d46b3be4030ffe4405c8
+Source Model Date : 1496689622 (2017/06/05)
+
+Ported Model Name : dorothy_v1sc
+Ported Model Hash : ca7a84e58023ba93b97ad1ed1fe788d8
+Ported Model Date : 1752491620 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : q2_flak_v2
+Source Model Hash : 29c2ccfd28dd1ae65ab2ae61fceef94a
+Source Model Date : 1583376340 (2020/03/04)
+
+Ported Model Name : q2_flak_v2sc
+Ported Model Hash : a3d65276c02a7128f73791e845760e5c
+Ported Model Date : 1752492176 (2025/07/14)

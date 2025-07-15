@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fp_doki
+Source Model Hash : 52e86e1f23c00b57bfa8acfb129646fa
+Source Model Date : 1500961878 (2017/07/24)
+
+Ported Model Name : fp_doki_v1sc
+Ported Model Hash : 6562e74d6940cbbd6bd1c9930ce1d963
+Ported Model Date : 1752491658 (2025/07/14)

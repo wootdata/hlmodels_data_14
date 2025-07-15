@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sawrunner
+Source Model Hash : 7552de3bd46d3dcd32951888c1786599
+Source Model Date : 1496689624 (2017/06/05)
+
+Ported Model Name : sawrunner_v1sc
+Ported Model Hash : 3a57a56c46dbbc9824ea53378c0d7e58
+Ported Model Date : 1752492239 (2025/07/14)

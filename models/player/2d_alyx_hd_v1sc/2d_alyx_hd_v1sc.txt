@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_alyx_hd
+Source Model Hash : 8639f34e854e4dfa0c47aa04d07a47c2
+Source Model Date : 1553722562 (2019/03/27)
+
+Ported Model Name : 2d_alyx_hd_v1sc
+Ported Model Hash : 03df7091fb0e1b3aab94eb435e8c9cd9
+Ported Model Date : 1752491304 (2025/07/14)

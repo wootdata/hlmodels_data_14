@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rbadger
+Source Model Hash : df237f4482a2aeec9bf15b19b99a67d4
+Source Model Date : 1462729337 (2016/05/08)
+
+Ported Model Name : rbadger_v1sc
+Ported Model Hash : 1c736ec1b64066864acfeef86c004076
+Ported Model Date : 1752492190 (2025/07/14)

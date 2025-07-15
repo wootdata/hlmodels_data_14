@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_padoru_padoru
+Source Model Hash : 9b0138615502a05b3158e11766785772
+Source Model Date : 1554106136 (2019/04/01)
+
+Ported Model Name : 2d_padoru_padoru_v1sc
+Ported Model Hash : bd04534cb426d34ee339dc68628bcc44
+Ported Model Date : 1752491317 (2025/07/14)

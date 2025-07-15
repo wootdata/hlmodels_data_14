@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bad_girlz
+Source Model Hash : 6cf38b24764b2ea73d850fdbd40f0dc3
+Source Model Date : 1267788841 (2010/03/05)
+
+Ported Model Name : bad_girlz_v1sc
+Ported Model Hash : c38ceda44f9df9f4ae5d43c31a6e7f9f
+Ported Model Date : 1752491398 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : smurf
+Source Model Hash : bc82d568f400a5b41dd1e7d1100fbc40
+Source Model Date : 1269870234 (2010/03/29)
+
+Ported Model Name : smurf_v1sc
+Ported Model Hash : 19c09a9447389164ae9a0a8bb6f91733
+Ported Model Date : 1752492284 (2025/07/14)

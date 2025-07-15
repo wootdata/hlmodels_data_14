@@ -1,0 +1,17 @@
+Hey I know these models are lame but were trying to get people to play
+In our server 24.166.168.69:27015
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : $
+Source Model Hash : 0e02ad63b3c74557092776c5d1cd0900
+Source Model Date : 1590364281 (2020/05/24)
+
+Ported Model Name : $_v1sc
+Ported Model Hash : 35102397822a2d325565a78c94021a7c
+Ported Model Date : 1752491301 (2025/07/14)

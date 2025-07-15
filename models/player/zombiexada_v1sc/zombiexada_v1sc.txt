@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zombiexada
+Source Model Hash : c715d06f7b46cacfbae589f99d8b8a71
+Source Model Date : 1583548283 (2020/03/06)
+
+Ported Model Name : zombiexada_v1sc
+Ported Model Hash : ea2e55fcb36e524f465fe747f18c919c
+Ported Model Date : 1752492532 (2025/07/14)

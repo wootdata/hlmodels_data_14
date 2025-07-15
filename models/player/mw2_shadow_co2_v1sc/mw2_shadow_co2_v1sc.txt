@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mw2_shadow_company_2
+Source Model Hash : 33c764090521fb91be9effe3144f82dc
+Source Model Date : 1325480550 (2012/01/01)
+
+Ported Model Name : mw2_shadow_co2_v1sc
+Ported Model Hash : 039f2df87c2cab0cef43c930a09e1a93
+Ported Model Date : 1752492054 (2025/07/14)

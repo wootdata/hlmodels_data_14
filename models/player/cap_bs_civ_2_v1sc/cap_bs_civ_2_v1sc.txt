@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cap_bs_unarmored_2
+Source Model Hash : 34823f9606b5db72b3a993d17ccd21ac
+Source Model Date : 1454174008 (2016/01/30)
+
+Ported Model Name : cap_bs_civ_2_v1sc
+Ported Model Hash : c9f58e7796ec74fe16d40563e750c99f
+Ported Model Date : 1752491461 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : worm_v2
+Source Model Hash : a502d2b762d507d188c40190ad6cae63
+Source Model Date : 1523724471 (2018/04/14)
+
+Ported Model Name : worm_v2sc
+Ported Model Hash : 4911747ba70fab994fc767a7a04dcf15
+Ported Model Date : 1752492512 (2025/07/14)

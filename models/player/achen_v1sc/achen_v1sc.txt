@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : achen
+Source Model Hash : 932a3fd100f4873ba4f936a349f3073f
+Source Model Date : 1622969545 (2021/06/06)
+
+Ported Model Name : achen_v1sc
+Ported Model Hash : 4ad16a1588efbeabc92c2bddd6028cad
+Ported Model Date : 1752491330 (2025/07/14)

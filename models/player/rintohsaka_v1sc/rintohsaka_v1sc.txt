@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rintohsaka
+Source Model Hash : 34f641f4f33dfef004d6867220535810
+Source Model Date : 1606322136 (2020/11/25)
+
+Ported Model Name : rintohsaka_v1sc
+Ported Model Hash : c265b525a47f4a545fcc84cd293fa803
+Ported Model Date : 1752492217 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : terrorist_m492
+Source Model Hash : f64e31d91f421da116c222b32eab65e4
+Source Model Date : 1311207928 (2011/07/20)
+
+Ported Model Name : terrorist_m492_v1sc
+Ported Model Hash : 5d6e23807b8cb0e54428bde70200a0a9
+Ported Model Date : 1752492402 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : robo_patriot
+Source Model Hash : efc45d1bae8e2a17a983d40b08a85e76
+Source Model Date : 1591156729 (2020/06/02)
+
+Ported Model Name : robo_patriot_v1sc
+Ported Model Hash : bb1c57ad5361d7530352656e94808133
+Ported Model Date : 1752492220 (2025/07/14)

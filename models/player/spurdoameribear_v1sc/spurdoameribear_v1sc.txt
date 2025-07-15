@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spurdoameribear
+Source Model Hash : 695a6266fab9d04ccc72bdfbf5580b7b
+Source Model Date : 1458911337 (2016/03/25)
+
+Ported Model Name : spurdoameribear_v1sc
+Ported Model Hash : 1d17dec7dff1025bfb0fd36ade2476f0
+Ported Model Date : 1752492314 (2025/07/14)

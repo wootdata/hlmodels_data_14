@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : epsilon_hs
+Source Model Hash : fb35c620ed761fd2a67c35095e088f9a
+Source Model Date : 1542161216 (2018/11/13)
+
+Ported Model Name : epsilon_hs_v1sc
+Ported Model Hash : 432860b88418753eaa263cef672aa122
+Ported Model Date : 1752491635 (2025/07/14)

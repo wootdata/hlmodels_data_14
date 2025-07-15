@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kz_yonaka
+Source Model Hash : dcfbd7f92dcf2d7fe6a5ec59fd9fee71
+Source Model Date : 1538790555 (2018/10/05)
+
+Ported Model Name : kz_yonaka_v1sc
+Ported Model Hash : 0b58cf964d0ae29671ebd777ae6eea2c
+Ported Model Date : 1752491933 (2025/07/14)

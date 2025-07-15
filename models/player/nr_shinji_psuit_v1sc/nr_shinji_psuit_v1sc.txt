@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nr_shinji_plugsuit
+Source Model Hash : 6c531e8f8c3d01e2061a443b0944da88
+Source Model Date : 1475457289 (2016/10/02)
+
+Ported Model Name : nr_shinji_psuit_v1sc
+Ported Model Hash : ad4c169d22663c23a41e2c79f0b25ef6
+Ported Model Date : 1752492103 (2025/07/14)
