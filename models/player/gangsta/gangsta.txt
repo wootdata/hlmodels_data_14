@@ -1,0 +1,16 @@
+Gangsta
+Oktober 31, 2000
+-------------------------------
+bones       4940 bytes (33)
+sequences 227220 bytes (1751 frames) [1:58]
+vertices   10052 bytes (380 vertices, 393 normals)
+mesh        9344 bytes (771 tris, 174 strips)
+models     19584 bytes
+textures   83620 bytes
+total     335364
+-------------------------------
+Extract the files to half-life\valve\models\players\gangsta\.
+
+
+Thalakos (Johannes Bill)
+jbill@gmx.net

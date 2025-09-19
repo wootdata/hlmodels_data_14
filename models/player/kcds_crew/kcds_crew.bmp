@@ -1,0 +1,26 @@
+<!--web11801-->
+<html>
+<head>
+<title>
+Yahoo! Mail
+</title>
+
+</head>
+<frameset rows="100%" cols="145,*" frameborder=0 border=0 framespacing=0>
+
+
+<frame name="wmailmenu" src="http://us.f118.mail.yahoo.com/ym/Navbar?YY=64128" scrolling="Auto" marginheight=1 noresize>
+<frame name="wmailmain" src="http://us.f118.mail.yahoo.com/ym/login?.rand=9gpb62a228df0&LgnDn=1" marginheight=1 marginwidth=10>
+
+
+</frameset>
+<noframes>
+<h2>Sorry.</h2>
+<p>
+<b>Yahoo! Mail requires the use of Netscape Navigator 3.0, Internet Explorer 3.0 or better.</b>
+</noframes>
+<!-- YahooMail -->
+<!-- SUCCESS -->
+</html>
+<!--0.18585-->
+<!-- compressed -->
